@@ -15,8 +15,8 @@ as well as PNG format (500x500 pixels).
 
 The brand icons mainly use two colors:
 
-- **Primary Color**: #0088AA
-- **Background Color**: #17181C
+- **Primary Color**: #0088AA ![](https://via.placeholder.com/12/0088AA?text=%20)
+- **Background Color**: #17181C ![](https://via.placeholder.com/12/17181C?text=%20)
 
 
 ## Primary Icon
