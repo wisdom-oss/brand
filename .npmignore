@@ -1,0 +1,8 @@
+# JetBrains IDE
+/.idea
+
+# Github Workflows
+/.github
+
+# Affinity Designer Source File
+WISdoM Logo.afdesign

@@ -1,0 +1,20 @@
+{
+  "name": "@wisdom-oss/brand",
+  "version": "1.0.0",
+  "description": "The water drop-styled icon used throughout the WISdoM project.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisdom-oss/brand.git"
+  },
+  "keywords": [
+    "svg",
+    "png",
+    "icon",
+    "logo",
+    "wisdom",
+    "branding"
+  ],
+  "license": "EUPL-1.2",
+  "bugs": { "url": "https://github.com/wisdom-oss/brand/issues" },
+  "homepage": "https://github.com/wisdom-oss/brand#readme"
+}
